@@ -1,0 +1,6 @@
+#circlesBox{
+	width: 80%;
+	min-width: 500px;
+	height: 250px;
+	border: 1px solid green;
+}
